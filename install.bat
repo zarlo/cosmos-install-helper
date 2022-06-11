@@ -1,1 +1,1 @@
-./cosmos/install-VS2019.bat 
+./cosmos/install-VS2022.bat 
