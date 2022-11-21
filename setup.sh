@@ -103,4 +103,4 @@ install()
     exit 0
 }
 
-[[ $1 == "--install-pkg" ]] && install || echo "Use --install-pkg to install packages if you want to install them!"
+[[ $1 == "--install-pkg" ]] && sudo install || echo "Use --install-pkg to install packages if you want to install them!"
