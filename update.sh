@@ -11,3 +11,5 @@ cd ./../
 cd ./Common
 git pull
 cd ./../
+
+echo "now run install"
